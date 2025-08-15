@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.localized
+
+# Node
+node_modules/
+
+# Composer
+vendor/
+
+# WordPress
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
+# Logs
+*.log
