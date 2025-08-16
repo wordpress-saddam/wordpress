@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /page/
+Disallow: /elementor-hf/
+Disallow: /tag/
+Disallow: /feed/
+Disallow: /license-application-form/
+Disallow: /visa-application-form/
+Disallow: /thank-you/
+
+Sitemap: https://www.universusconsulting.com/sitemap_index.xml
